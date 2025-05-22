@@ -72,7 +72,7 @@ README.md
 ## Contact & Collaboration
 
 Feel free to open issues or pull requests for suggestions, improvements, or collaboration opportunities.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for professional networking.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anim-michael-asante) for professional networking.
 
 ---
 
