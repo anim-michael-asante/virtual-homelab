@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ce5e9b77-52bc-4b3d-8cda-7bd11eed9459)
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/423f7a4f-4ef8-4c8d-bce6-1d71d53e7ce7" />
+
 ![image](https://github.com/user-attachments/assets/5bcd747b-5a21-4dc0-a611-424117e1bea4)
 
 
@@ -18,7 +19,7 @@ Welcome to my Home Lab repository, where I document practical projects and exper
 - **Host OS:** Windows 10/11
 - **Virtualization:** Oracle VirtualBox
 - **Hardware:** 8-core CPU, 8 GB RAM, SSD storage
-- **VMs Used:** Kali Linux, Windows XP, Cisco router/firewall simulations
+- **VMs Used:** Kali Linux, Windows 10, Cisco router/firewall simulations
 - **Network Configuration:** Internal Networking for isolated, secure testing
 
 ---
